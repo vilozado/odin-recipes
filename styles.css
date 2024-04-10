@@ -8,6 +8,9 @@ ul {
     list-style: none;
 }
 
-#title {
+#title,
+.page1,
+.page2,
+.page3 {
     text-align: center;
 }
