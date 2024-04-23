@@ -4,8 +4,29 @@
     background-color: whitesmoke
 }
 
+.list {
+    background: lightsalmon;
+    width: 400px;
+    margin: 16px auto;
+    padding: 3px;
+}
+
+.links {
+    background: white;
+    padding: 8px;
+    margin: 8px;
+}
+
 ul {
     list-style: none;
+}
+
+li,
+a {
+    background: white;
+    padding: 8px;
+    text-align: center;
+    margin: 1px;
 }
 
 #title,
@@ -13,4 +34,12 @@ ul {
 .page2,
 .page3 {
     text-align: center;
+}
+
+#title {
+    background-color: lightsalmon;
+    padding: 8px;
+    color: white;
+    margin-bottom: 16px;
+    margin-top: 16px;
 }
